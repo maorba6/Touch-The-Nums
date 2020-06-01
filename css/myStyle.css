@@ -1,0 +1,38 @@
+.unclicked{
+    background-color:lightgreen ;
+}
+
+.clicked{
+    background-color: gold ;
+}
+
+
+.timer {
+    background-color: grey;
+    font-size:  50px;
+
+}
+
+table {
+    border-collapse: separate;
+    border-color: black;
+    margin-left: 44%;
+    margin-top: 2%; 
+}
+
+body{
+    background-color: lightgrey;
+}
+
+tr{
+    height: 50px;
+}
+
+td{
+    width: 35px;
+}
+
+.webStyle{
+    text-align: center;
+    left: auto;
+}

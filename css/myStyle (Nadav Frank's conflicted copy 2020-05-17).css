@@ -1,0 +1,13 @@
+.unclicked{
+    background-color:lightgreen ;
+}
+
+.clicked{
+    background-color: gold ;
+}
+
+
+.timer {
+    background-color: grey;
+    
+}
